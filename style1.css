@@ -1,0 +1,26 @@
+/* CSS Document */
+
+#container {
+	margin-top: 26px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+}
+
+img.logo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#byline {
+	position:absolute;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	top: 126px;
+	text-align: center;
+	font: normal 11px "Trebuchet MS","MS Sans Serif",Geneva,Serif; 
+	color: black;
+	z-index:1000;
+}
